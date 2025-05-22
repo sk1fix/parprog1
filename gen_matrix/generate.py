@@ -18,7 +18,7 @@ def create_matrix(sizes):
 
 
 def main():
-    sizes = [10, 100, 200, 300, 400, 500, 600, 700, 800, 900, 1000]
+    sizes = [100, 200, 300, 400, 500, 600, 700, 800, 900, 1000]
     create_matrix(sizes)
 
 if __name__ == '__main__':
