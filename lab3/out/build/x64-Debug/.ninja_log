@@ -1,0 +1,5 @@
+# ninja log v6
+5	576	7697065621337064	CMakeFiles/mpi_program.dir/src/main.cpp.obj	23d281fb1e18782e
+578	1067	7697065627064040	mpi_program.exe	4510c2a2b1283b01
+15	609	7697071177647876	CMakeFiles/mpi_program.dir/src/main.cpp.obj	23d281fb1e18782e
+610	879	7697071183606933	mpi_program.exe	4510c2a2b1283b01
